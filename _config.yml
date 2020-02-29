@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tom Cooper | Personal site
-email: thomascooperca@gmail.com
+email: thomascooperca at gmail dot com
 description: >-
-  Former data center network engineer. Now, I write code and focus on cloud architecture, 
-  Kubernetes & containers and software craftsmanship. 
+  Technology, cloud, Kubernetes and software craftsmanship. Gaming, music and other random stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomcooperca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tomcooperca
