@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Thomas Cooper. From Toronto, Canada. An infrastructure specialist and developer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Professional career highlights since 2011: 
+* network operations analyst supporting multiple vendors (Cisco, Juniper and Brocade)
+* designed, built & operated many computer networks including a large corporate campus & thousands of branch offices, multiple data centers across 3 georgraphies and a global wireless network
+* Lead development practice within network engineering to perform automated configuration generation & configuration management for Cisco NX-OS leaf-spine networks using Python & Puppet. Configurations were checked into source control 
+* Combined developer & SRE, working on a small team & developing REST APIs for legacy system integration & self-serve infrastructure provisioning. Designed as microservices. 
+* Designed & implementated CI/CD pipeline including end-to-end test automation & deployment of the applications onto OpenShift using Jenkins & Ansible
+* Cloud (Azure & AWS) platform engineer. Building cloud native applications and deploying containers & Kubernetes and functions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Outside the office, I'm an avid PC & console gamer, collector of vinyl records, board game junky and all-around tech geek.
