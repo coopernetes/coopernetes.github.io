@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Thomas Cooper. From Toronto, Canada. An infrastructure specialist and developer.
+An infrastructure specialist and developer from Toronto, Canada.
 
 Professional career highlights since 2011: 
 * network operations analyst supporting multiple vendors (Cisco, Juniper and Brocade)
