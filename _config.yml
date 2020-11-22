@@ -1,19 +1,25 @@
-# Site details
+# Setup
 title: Thomas Cooper
 tagline: Ramblings about anything
 description: >-
   Technology, cloud, Kubernetes and software craftsmanship. Gaming, music and other random stuff.
-url: "https://tomcooperca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://tomcooperca.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
   name:              Thomas Cooper
   url:               https://github.com/tomcooperca
   email:             thomascooperca at gmail dot com
-github_username:  tomcooperca
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Gems
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+
+# Custom vars
+version:             0.0.1
+github:
+  repo: https://github.com/tomcooperca/tomcooperca.github.io
+google_analytics_id: #UA-XXXX-Y

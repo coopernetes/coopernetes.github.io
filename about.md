@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Who tf am I
-*Thomas Cooper* - IT professional, all-around tech geek, gamer and music aficionado from Toronto, Canada. Father of one. I enjoy tinkering and figuring out how all things work at a fundamental level. One might say that I align to reductionist leanings but I try to keep an open mind as well about the world at large. Driving radical change within an organization is my passion. 
+IT professional, all-around tech geek, gamer and music aficionado from Toronto, Canada. Father of one. I enjoy tinkering and figuring out how all things work at a fundamental level. One might say that I align to reductionist leanings but I try to keep an open mind as well about the world at large. Driving radical change within an organization is my passion. 
 
 I've run the gambit of video gaming since 1995. Platformers, RPGs, FPS and pretty much everything in between. Current gaming:
 * FromSoftware action RPGs (Bloodborne, DS3)
@@ -42,4 +41,14 @@ I have been playing acoustic guitar since about 2006. Am largely self-taught wit
   - Steelseries Frost Blue mouse
   - Two Kingston HyperX Alloy FPS Pro mechanical tenkeyless keyboards (MX Red & MX Blue switches; red for everyday use & blue to not annoy the shit out of my colleagues)
 
-## Work & professional  
+## Professional life
+* IT professional since 2011
+* started out in computer networking, operations and support
+* in-depth knowledge & experience across the entire stack. Some highlights:
+  - web & API development
+  - N-tier, microservices and distributed systems design
+  - Building & operating containers on Kubernetes & OpenShift
+  - Participated in and/or lead continuous integration, continuous delivery and devops practices within multiple product teams
+  - application security engineering
+  - application architecture
+  - cloud native computing
