@@ -1,2 +1,4 @@
 # tomcooperca.github.io
-Personal site
+Source code for my personal site. 
+
+Built using [Jekyll](https://jekyllrb.com/).
