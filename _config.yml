@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tom Cooper | Personal site
+title: Thomas Cooper's personal site
 email: thomascooperca at gmail dot com
 description: >-
   Technology, cloud, Kubernetes and software craftsmanship. Gaming, music and other random stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomcooperca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tomcooperca
 github_username:  tomcooperca
 
 # Build settings
