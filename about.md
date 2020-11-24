@@ -41,14 +41,10 @@ I have been playing acoustic guitar since about 2006. Am largely self-taught wit
   - Steelseries Frost Blue mouse
   - Two Kingston HyperX Alloy FPS Pro mechanical tenkeyless keyboards (MX Red & MX Blue switches; red for everyday use & blue to not annoy the shit out of my colleagues)
 
-## Professional life
+## Professional details
 * IT professional since 2011
-* started out in computer networking, operations and support
-* in-depth knowledge & experience across the entire stack. Some highlights:
-  - web & API development
-  - N-tier, microservices and distributed systems design
-  - Building & operating containers on Kubernetes & OpenShift
-  - Participated in and/or lead continuous integration, continuous delivery and devops practices within multiple product teams
-  - application security engineering
-  - application architecture
-  - cloud native computing
+* Started out in computer networking doing tech support, then network ops into designing & implementing corporate and data centre networks
+* moved up the stack into software development for a couple years doing API development & legacy backend systems integration
+* my current gig is cloud & application architecture
+* I enjoy problem solving and knowing how all layers of any stack work. Always striving to build the most robust & reliable software and systems
+* also solving culture divides around how software should be deployed, how operations should be done using modern tools such as APIs, modularity, infra-as-code, etc. and bringing infra, security & cloud together in harmony
