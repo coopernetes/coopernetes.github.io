@@ -3,7 +3,7 @@ title: Thomas Cooper
 tagline: Ramblings about anything
 description: >-
   Technology, cloud, Kubernetes and software craftsmanship. Gaming, music and other random stuff.
-url: https://tomcooperca.github.io
+url: https://coopernetes.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -11,8 +11,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Thomas Cooper
-  url:               https://github.com/tomcooperca
-  email:             thomascooperca at gmail dot com
+  url:               https://github.com/coopernetes
+  email:             me at coopernetes dot ca
 
 # Gems
 plugins:
@@ -21,5 +21,5 @@ plugins:
 # Custom vars
 version:             0.0.1
 github:
-  repo: https://github.com/tomcooperca/tomcooperca.github.io
+  repo: https://github.com/coopernetes/coopernetes.github.io
 google_analytics_id: #UA-XXXX-Y
