@@ -1,9 +1,9 @@
 # Setup
 title: Thomas Cooper
-tagline: Ramblings about anything
+tagline: Ramblings about technology, cloud, Kubernetes and software craftsmanship.
 description: >-
   Technology, cloud, Kubernetes and software craftsmanship. Gaming, music and other random stuff.
-url: https://coopernetes.github.io
+url: https://blog.coopernetes.ca
 baseurl:             ''
 paginate:            5
 permalink:           pretty
